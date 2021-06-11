@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity7</string>
+    <string name="tnama"></string>
+    <string name="tKartu"></string>
+    <string name="tnotelp"></string>
+    <string name="tsimpan"></string>
+    <string name="tcreatedata"></string>
+</resources>
